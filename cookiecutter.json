@@ -1,6 +1,6 @@
 {
-	"Name": "Project Name?",
-	"Folder": "Project folder name?",
-	"Author": "My Name?",
-	"Description": "Project brief description?"
+	"project_name": "Project Name?",
+	"project_directory": "Project folder name?",
+	"author": "My Name?",
+	"description": "Project brief description?"
 }
