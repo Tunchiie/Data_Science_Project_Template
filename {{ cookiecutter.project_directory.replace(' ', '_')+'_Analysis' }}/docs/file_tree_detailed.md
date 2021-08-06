@@ -1,6 +1,6 @@
 ```
 _____________________________________________________________________________________________________________________________________________________________________________________
-│    📦 Data_Science_Project                   ├── This Project.                                                                                                                    |
+│    📦 Data_Science_Project                   ┌── This Project.                                                                                                                    |
 │    ├── 📜README.md                           ├── The top-level README for developers using this project.                                                                          |
 │    ├── 📜Data_Science_Project_Analysis.ipynb ├── The full analysis notebook for this project, with statistics, model building, data visualization and results evaluation.         |
 │    ├── 📜Data_Science_Project_Main.py        ├── The main script for this project, making it possible to become a web app in a server of choice.                                  |
