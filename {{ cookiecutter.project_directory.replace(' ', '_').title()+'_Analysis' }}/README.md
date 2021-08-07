@@ -1,4 +1,4 @@
-## {{ cookiecutter.project_name+'_Analysis' }}
+## {{ cookiecutter.project_name.title()+'_Analysis' }}
 
 Author: {{ cookiecutter.author }}
 Description: {{ cookiecutter.description }}
