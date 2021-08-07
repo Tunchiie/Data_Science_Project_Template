@@ -1,6 +1,6 @@
 ```
 ____________________________________________________________________________________________________________________________________________________________________________
-│    📦 Data_Science_Project                                                                                                                                               |
+│    📦 Data_Science_Project                   <- This project                                                                                                             |
 │    ├── 📜README.md                           <- The top-level README for developers using this project.                                                                  |
 │    ├── 📜Data_Science_Project_Analysis.ipynb <- The full analysis notebook for this project, with statistics, model building, data visualization and results evaluation. |
 │    ├── 📜Data_Science_Project_Main.py        <- The main script for this project, making it possible to be imported as a module and reproduced step-by-step.             |
@@ -25,13 +25,13 @@ ________________________________________________________________________________
 │    │   │   ├── 📂4_2_Model_Building          <- Model building, creating the model architecture and training the model.                                                  |
 │    │   │   └── 📂4_3_Model_Evaluating        <- Model evaluation, performance metrics, tuning and model selection.                                                       |
 │    │   ├── 📂5_Report_Issuing                <- Report issuing, graphing, and description of the results.                                                                |
-│    │   ├── 📂6_App_Deployment                <- App deployment, creating a web app for the project via Flask, Streamlit, Dash, FastAPI or Django.                        |
-│    │   └── 📂7_Api                           <- Api for database access on the web app.                                                                                  |
+│    │   ├── 📂6_Api                           <- Api for database access on the web app.                                                                                  |
+│    │   └── 📂7_App_Deployment                <- App deployment, creating a web app for the project via Flask, Streamlit, Dash, FastAPI or Django.                        |
 │    ├── 📂reports                             <- Generated analysis as HTML, PDF, LaTeX, etc.                                                                             |
 │    │   ├── 📂dump                            <- Dump of the report files.                                                                                                |
 │    │   └── 📂images                          <- Generated graphics and figures to be used in reporting and story telling.                                                |
 │    ├── 📂requirements                        <- The requirements needed for reproducing the analysis environment, including packages, python version, etc.               |
-│    ├── 📂environment                         <- Enviroment variables eventually used in the analysis depending on the project.                                           |
+│    ├── 📂env                                 <- Enviroment variables eventually used in the analysis depending on the project.                                           |
 │    └── 📂src                                 <- Source code for the project putting into practice what was discovered on notebooks in an app or api.                     |
 │        ├── 📜__init__.py                     <- Makes src an importable Python module.                                                                                   |
 │        ├── 📂1_data_collection               <- Data collection obtained via Kaggle/API/Scraping/Download.                                                               |
@@ -42,6 +42,6 @@ ________________________________________________________________________________
 │        │   ├── 📂4_2_evaluate                <- Model evaluation, performance metrics, tuning and model selection.                                                       |
 │        │   └── 📂4_3_predict                 <- Predicting new data using the trained model.                                                                             |
 │        ├── 📂5_report_issuing                <- Report issuing, graphing, and description of the results.                                                                |
-│        ├── 📂6_app_deployment                <- The web app for this project, created via Flask, Streamlit, Dash, FastAPI or Django.                                     |
-│        └── 📂7_api                           <- Api for database access on the web app.                                                                                  |
+│        ├── 📂6_api                           <- Api for database access on the web app.                                                                                  |
+│        └── 📂7_app_deployment                <- The web app for this project, created via Flask, Streamlit, Dash, FastAPI or Django.                                     |
 ```
